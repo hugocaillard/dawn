@@ -102,6 +102,21 @@
           </div>
         {%- endif -%}
         <div class="card__content">
+          {%- if card_product.available == true -%}
+            <div class="card__badge bottom left">
+              {%- if card_product.tags contains 'precommande' %}
+                <div class="option__size">{{ 'custom.preorder' | t }}</div>
+              {%- else %}
+                {%- for option in card_product.options_with_values -%}
+                  {%- if option.name == 'Taille' -%}
+                    {%- for value in option.values -%}
+                      <div class="option__size">{{ value }}</div>
+                    {%- endfor -%}
+                  {%- endif -%}
+                {%- endfor -%}
+              {%- endif -%}
+            </div>
+          {%- endif -%}
           <div class="card__information">
             <h3
               class="card__heading"
