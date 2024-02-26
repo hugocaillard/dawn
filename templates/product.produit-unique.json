@@ -103,8 +103,8 @@
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
-        "media_size": "large",
-        "constrain_to_viewport": true,
+        "media_size": "medium",
+        "constrain_to_viewport": false,
         "media_fit": "cover",
         "gallery_layout": "stacked",
         "media_position": "left",
