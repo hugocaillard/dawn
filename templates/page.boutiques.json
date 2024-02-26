@@ -21,7 +21,7 @@
         "text_NgafiN": {
           "type": "text",
           "settings": {
-            "text": "📍Espace (RE)STORE, 3ème étage - 40 Bd Haussmann, 75009 Paris",
+            "text": "📍Espace (RE)STORE, 3ème étage - <a href=\"https:\/\/maps.app.goo.gl\/KYos8AhX2YyYU9Qe7\" target=\"_blank\" title=\"https:\/\/maps.app.goo.gl\/KYos8AhX2YyYU9Qe7\">40 Bd Haussmann, 75009 Paris<\/a>",
             "text_style": "caption-with-letter-spacing"
           }
         }
