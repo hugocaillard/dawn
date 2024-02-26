@@ -40,11 +40,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "cw_back_in_stock_restock_alert_product_restore_email_Lzzrpb": {
-          "type": "shopify:\/\/apps\/cw-back-in-stock-restock-alert\/blocks\/product-restore-email\/b190bced-3b7b-47da-a05f-6ea4821c3a77",
-          "settings": {
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -98,7 +93,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "cw_back_in_stock_restock_alert_product_restore_email_Lzzrpb",
         "description",
         "collapsible_tab_Yj4a8r",
         "collapsible_tab_RdiRBf",
