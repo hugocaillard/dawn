@@ -50,7 +50,7 @@
         "buttons_gJmBdD": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "PIÈCES UNIQUES",
+            "button_label_1": "PIÈCES UNIQUES EN STOCK",
             "button_link_1": "shopify:\/\/collections\/piece-uniques-upcyclees",
             "button_style_secondary_1": true,
             "button_label_2": "",
