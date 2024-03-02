@@ -221,7 +221,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Nos pièces cultes",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
