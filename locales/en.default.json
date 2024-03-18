@@ -228,7 +228,8 @@
       },
       "results_products_with_count": {
         "one": "{{ count }} product",
-        "other": "{{ count }} products"
+        "other": "{{ count }} products",
+        "many": "Products {{ count }}"
       },
       "results_with_count": {
         "one": "{{ count }} result",
@@ -354,11 +355,13 @@
       "variant_total": "Variant total",
       "items_added": {
         "one": "{{ quantity }} item added",
-        "other": "{{ quantity }} items added"
+        "other": "{{ quantity }} items added",
+        "many": "{{ quantity }} items added"
       },
       "items_removed": {
         "one": "{{ quantity }} item removed",
-        "other": "{{ quantity }} items removed"
+        "other": "{{ quantity }} items removed",
+        "many": "{{ quantity }} items removed"
       },
       "product_variants": "Product variants",
       "total_items": "Total items",
@@ -593,6 +596,9 @@
           "free_for_first_n_order": {
             "many": "For the first %{count} orders"
           }
+        },
+        "other_method": {
+          "many": "%{count} other methods available from"
         }
       },
       "payment": {
@@ -645,6 +651,9 @@
       "shipping_errors": {
         "shipping_method_not_available_updated": {
           "many": "It is not possible to ship to your location at least one of the items you have added. Please remove it(s) to be able to pay, or contact the shop."
+        },
+        "shipping_method_not_available_generic": {
+          "many": "Some items in your cart cannot be shipped to the address you entered. Check that your address was entered correctly, then try again or select another address."
         }
       },
       "processing": {
@@ -688,6 +697,9 @@
         },
         "all_products_in_cart_unavailable": {
           "many": "These products are not available in your country\/region."
+        },
+        "title": {
+          "many": "Products not available"
         }
       },
       "deliverability": {
@@ -727,6 +739,11 @@
         },
         "reveal_more_label": {
           "many": "View %{count} more locations"
+        }
+      },
+      "throttle": {
+        "estimated_wait_time": {
+          "many": "Waiting time is estimated at {{count}} minutes"
         }
       }
     },
