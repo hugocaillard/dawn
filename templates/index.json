@@ -14,8 +14,8 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "NOUVELLE COLLECTION",
-            "button_link_1": "shopify:\/\/collections\/fall-winter-23-24",
+            "button_label_1": "VENTE ARCHIVES EXCLUSIVES",
+            "button_link_1": "shopify:\/\/collections\/vente-archives",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -31,7 +31,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/AGE_PARIS_-_1.png",
+        "image_2": "shopify:\/\/shop_images\/AgeParis28.jpg",
         "image_overlay_opacity": 10,
         "image_height": "large",
         "desktop_content_position": "middle-center",
