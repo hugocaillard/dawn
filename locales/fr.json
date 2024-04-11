@@ -167,7 +167,7 @@
       "inventory_low_stock_show_count": "Stock bas : {{ quantity }} restant(s)",
       "sku": "SKU",
       "inventory_out_of_stock": "En rupture de stock",
-      "inventory_out_of_stock_continue_selling": "En stock",
+      "inventory_out_of_stock_continue_selling": "Disponible sur commande",
       "volume_pricing": {
         "title": "Tarification basée sur le volume",
         "note": "La tarification basée sur le volume est disponible",
