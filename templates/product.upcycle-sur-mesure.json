@@ -32,6 +32,14 @@
           "settings": {
           }
         },
+        "inventory_JjBzQU": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "uppercase",
+            "inventory_threshold": 0,
+            "show_inventory_quantity": true
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -91,6 +99,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "inventory_JjBzQU",
         "buy_buttons",
         "description",
         "1af72d03-5844-487c-bdab-a185fe74d6db",
