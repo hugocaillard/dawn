@@ -61,6 +61,15 @@
             "page": ""
           }
         },
+        "collapsible_tab_QFAUFp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Pièces confectionnées à partir de stock dormant",
+            "icon": "none",
+            "content": "<p><\/p><p><strong>Qu'est-ce que des stocks dormants ?<br\/><\/strong>Ce sont principalement des fins de série, des chutes de tissus et merceries qui sont laissés à l’abandon dans les entrepôts des marques et des fabricants. <br\/>Chez ÂGE, nous ne produisons pas de nouveaux matériaux, nous réutilisons l’existant pour créer nos collections. <br\/>Nos matériaux proviennent de maisons de Couture, de fabricants de tissus, et sont méticuleusement sélectionnés pour refléter nos critères de qualité, d’esthétique et d’écoresponsabilité.<br\/><\/p><p><strong>Pourquoi produire à partir de matériaux existants ?<br\/><\/strong>Dans notre engagement pour un mode de production plus responsable, la création de collection à partir de stocks dormants permet de lutter contre le gaspillage des matériaux issus de l’industrie textile. Les quantités sont donc limitées en fonction des quantités de tissus et merceries récupérés.<br\/><\/p>",
+            "page": ""
+          }
+        },
         "148fd12d-9e60-4548-a1e0-2cc0f10dad6a": {
           "type": "collapsible_tab",
           "settings": {
@@ -103,6 +112,7 @@
         "buy_buttons",
         "description",
         "1af72d03-5844-487c-bdab-a185fe74d6db",
+        "collapsible_tab_QFAUFp",
         "148fd12d-9e60-4548-a1e0-2cc0f10dad6a",
         "7b2fccfc-7e46-4512-a0ef-df240241f2a4",
         "popup_rgMEeM",
