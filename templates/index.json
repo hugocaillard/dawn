@@ -3,19 +3,11 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading_iqXVEf": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "ÂGE PARIS",
-            "heading_size": "h2"
-          }
-        },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "VENTE ARCHIVES EXCLUSIVES",
-            "button_link_1": "shopify:\/\/collections\/vente-archives",
+            "button_label_1": "Nouvelle collection - en ligne le 17 avril à 17h",
+            "button_link_1": "",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -24,15 +16,13 @@
         }
       },
       "block_order": [
-        "heading_iqXVEf",
         "button"
       ],
-      "disabled": true,
       "custom_css": [
 
       ],
       "settings": {
-        "image_2": "shopify:\/\/shop_images\/AgeParis28.jpg",
+        "image_2": "shopify:\/\/shop_images\/12_86cf006b-77eb-4fee-be14-e4dfde1a9cfa.png",
         "image_overlay_opacity": 10,
         "image_height": "large",
         "desktop_content_position": "middle-center",
