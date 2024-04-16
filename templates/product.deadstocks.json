@@ -139,10 +139,10 @@
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
-        "products_to_show": 2,
-        "columns_desktop": 2,
+        "products_to_show": 3,
+        "columns_desktop": 3,
         "color_scheme": "scheme-1",
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -202,8 +202,8 @@
         "template--16928264126745__a1958c3e-b2eb-4d6d-8bd7-cdae0804418d-1670429635aa96e28a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "VOIR LA NOUVELLE COLLECTION",
-            "button_link_1": "shopify:\/\/collections\/printemps-ete",
+            "button_label_1": "VOIR TOUTE LA COLLECTION",
+            "button_link_1": "shopify:\/\/collections\/all-collection",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -215,7 +215,7 @@
         "template--16928264126745__a1958c3e-b2eb-4d6d-8bd7-cdae0804418d-1670429635aa96e28a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/10.png",
+        "image": "shopify:\/\/shop_images\/AGE_PARIS-20230820-LOOK12-09-4.heic",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
