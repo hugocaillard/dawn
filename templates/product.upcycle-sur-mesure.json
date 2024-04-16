@@ -47,11 +47,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "1af72d03-5844-487c-bdab-a185fe74d6db": {
           "type": "collapsible_tab",
           "settings": {
@@ -101,7 +96,6 @@
         "quantity_selector",
         "inventory_JjBzQU",
         "buy_buttons",
-        "description",
         "1af72d03-5844-487c-bdab-a185fe74d6db",
         "148fd12d-9e60-4548-a1e0-2cc0f10dad6a",
         "7b2fccfc-7e46-4512-a0ef-df240241f2a4",
