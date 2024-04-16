@@ -143,8 +143,8 @@
         "template--16928264126745__a1958c3e-b2eb-4d6d-8bd7-cdae0804418d-1670429635aa96e28a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "VOIR TOUTE LA COLLECTION",
-            "button_link_1": "shopify:\/\/collections\/all-collection",
+            "button_label_1": "VOIR LA NOUVELLE COLLECTION",
+            "button_link_1": "shopify:\/\/collections\/printemps-ete",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -156,7 +156,7 @@
         "template--16928264126745__a1958c3e-b2eb-4d6d-8bd7-cdae0804418d-1670429635aa96e28a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/P5280308.jpg",
+        "image": "shopify:\/\/shop_images\/4.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
