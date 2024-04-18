@@ -137,7 +137,7 @@
     "related-products": {
       "type": "related-products",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Vous aimerez aussi",
         "heading_size": "h2",
         "products_to_show": 3,
         "columns_desktop": 3,
