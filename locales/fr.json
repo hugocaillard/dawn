@@ -162,7 +162,7 @@
       "value_unavailable": "{{ option_value }} – indisponible",
       "variant_sold_out_or_unavailable": "Variante épuisée ou indisponible",
       "inventory_in_stock": "En stock",
-      "inventory_in_stock_show_count": "{{ quantity }} en stock",
+      "inventory_in_stock_show_count": "{{ quantity }} en stock {{ location_name }}",
       "inventory_low_stock": "Stock bas",
       "inventory_low_stock_show_count": "Pièce Unique : {{ quantity }} en stock",
       "sku": "SKU",
