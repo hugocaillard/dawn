@@ -527,12 +527,5 @@
   },
   "custom": {
     "preorder": "Pré-commande"
-  },
-  "shopify": {
-    "checkout": {
-      "payment_gateway": {
-        "cash_on_delivery_label": "Paiement à la livraison - Seulement pour RETRAIT aux Galeries Lafayette"
-      }
-    }
   }
 }
