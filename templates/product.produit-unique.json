@@ -51,7 +51,7 @@
         "collapsible_tab_Yj4a8r": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Détails",
+            "heading": "Description",
             "icon": "none",
             "content": "{{ product.metafields.custom.description_ | metafield_tag }}",
             "page": ""
@@ -60,17 +60,17 @@
         "collapsible_tab_RdiRBf": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Pièces uniques upcyclées",
-            "icon": "none",
-            "content": "<p><strong><br\/>Qu'est ce qu'une pièce unique upcyclée ?<br\/><\/strong>Nos pièces uniques upcyclées sont réalisées à partir de vêtements vintages ou seconde-main méticuleusement sélectionnés pour la qualité de leurs matières et finitions. La pièce est ensuite soigneusement déconstruite puis transformé. Chaque pièce est unique car chiné en un seul exemplaire.<br\/><\/p><p><\/p>",
-            "page": ""
+            "heading": "Pièce unique upcyclée",
+            "icon": "recycle",
+            "content": "{{ block.settings.page.metafields.custom.pi_ce_unique_unique_upcycl_e | metafield_tag }}",
+            "page": "dropdown-livraison"
           }
         },
         "collapsible_tab_rkRRtm": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Livraison et retours",
-            "icon": "none",
+            "icon": "box",
             "content": "<p><strong>Cette article est une pièce unique prête à être expédiée.<\/strong><\/p><p>France avec Mondial Relai ou La Poste<br\/><em>Mondial Relay – gratuit (2-5 jours ouvrables)<br\/>Standard – 10€ (2-4 jours ouvrables)<br\/>Express – 20€ (24H)<\/em><br\/><br\/>Paris coursier<br\/>20€ (disponible uniquement les jours ouvrés pour les commandes passées avant 15h)<br\/><br\/>Union Européenne <br\/>Livraison Standard - 15€ (2-8 jours ouvrables) <br\/>Livraison Express – 25 € (24 à 72H)<br\/><br\/>Livraison hors Union Européenne <br\/>Livraison Standard - 20€ (4 -10 jours ouvrés) <br\/><br\/>Les commandes passées avant 12:00 (CEST) seront envoyées le jour même. (hors week-end et jours fériés français)<br\/>Pour plus de détails, lisez notre <a href=\"\/pages\/frais-de-livraison\" title=\"Frais de livraison\">politique d'expédition<\/a>.<br\/><\/p><p>• RETOURS : <br\/>Vous avez 14 jours à compter de la date de livraison de votre commande pour nous retourner gratuitement les articles.<br\/><br\/>Pour plus de détails, découvrez notre politique de <a href=\"\/pages\/retours-echanges-et-remboursements\" title=\"Retours, échanges et remboursements\">retours et échanges.<\/a><\/p>",
             "page": ""
           }
