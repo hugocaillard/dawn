@@ -473,7 +473,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".accordion__content p {font-size: 12px;}"
+      ".accordion__content p {font-size: 12.5px;}"
     ]
   }
 }
