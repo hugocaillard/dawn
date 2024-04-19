@@ -51,7 +51,7 @@
             "heading": "Livraison et retours",
             "icon": "none",
             "content": "<p><strong>Ceci est une pièce unique prête à être expédiée.<\/strong><\/p>{{ block.settings.page.metafields.custom.livraison_et_retours | metafield_tag }}",
-            "page": ""
+            "page": "dropdown-livraison"
           }
         },
         "b46de090-79c3-430c-bfcd-9d20e5fe54a9": {
