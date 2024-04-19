@@ -40,6 +40,12 @@
             "show_inventory_quantity": true
           }
         },
+        "custom_liquid_KVW3ag": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "Disponible aux Galeries Lafayette Haussman : {{ custom.stock_aux_galeries }}"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -110,6 +116,7 @@
         "variant_picker",
         "quantity_selector",
         "inventory_JjBzQU",
+        "custom_liquid_KVW3ag",
         "buy_buttons",
         "description",
         "1af72d03-5844-487c-bdab-a185fe74d6db",
