@@ -82,8 +82,8 @@
           "settings": {
             "heading": "Disponible sur commande",
             "icon": "serving_dish",
-            "content": "<p><strong>Que signifie \"Disponible sur commande\" ?<br\/><\/strong>Si nous n'avons pas de stock disponible, votre pièce est fabriquée à la commande dans nos ateliers à Paris.<br\/>Vous achetez le vêtement avant qu’il ne soit produit, ce qui nous permet d'ajuster nos quantités en fonction des commandes reçues et d’éviter ainsi la surproduction.<\/p><p><strong>Combien de temps vais-je attendre ma commande ?<br\/><\/strong>Pour les pièces sur commande, le délai approximatif d’expédition est de 2 semaines. Vous recevrez un e-mail une fois votre commande envoyée avec le numéro de suivi.<\/p>",
-            "page": ""
+            "content": "{{ block.settings.page.metafields.custom.disponible_sur_commande | metafield_tag }}",
+            "page": "dropdown-livraison"
           }
         },
         "7b2fccfc-7e46-4512-a0ef-df240241f2a4": {
