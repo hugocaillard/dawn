@@ -91,7 +91,7 @@
           "settings": {
             "heading": "Livraison et retours",
             "icon": "box",
-            "content": "{{ block.settings.page.metafields.custom.nos_tissus | metafield_tag }}",
+            "content": "{{ block.settings.page.metafields.custom.livraison_et_retours | metafield_tag }}",
             "page": "dropdown-livraison"
           }
         },
