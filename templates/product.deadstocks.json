@@ -43,7 +43,7 @@
         "custom_liquid_KVW3ag": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "Disponible aux Galeries Lafayette Haussman : {{ custom.stock_aux_galeries }}"
+            "custom_liquid": "{% if product.metafields.custom.stock_aux_galeries != blank %}\n\n<p class=\"caption-with-letter-spacing\">\n\nEn stock aux Galeries Lafayette Haussman : Taille {{ product.metafields.custom.stock_aux_galeries }}\n<\/p>\n{% endif %}"
           }
         },
         "buy_buttons": {
@@ -62,8 +62,8 @@
         "1af72d03-5844-487c-bdab-a185fe74d6db": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Détails",
-            "icon": "none",
+            "heading": "Description{{ block.settings.page.title }}",
+            "icon": "heart",
             "content": "{{ product.metafields.custom.description_ | metafield_tag }}",
             "page": ""
           }
@@ -71,18 +71,18 @@
         "collapsible_tab_QFAUFp": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Pièces confectionnées à partir de stock dormant",
-            "icon": "none",
-            "content": "<p><\/p><p><strong>Qu'est-ce que des stocks dormants ?<br\/><\/strong>Ce sont principalement des fins de série, des chutes de tissus et merceries qui sont laissés à l’abandon dans les entrepôts des marques et des fabricants. <br\/>Chez ÂGE, nous ne produisons pas de nouveaux matériaux, nous réutilisons l’existant pour créer nos collections. <br\/>Nos matériaux proviennent de maisons de Couture, de fabricants de tissus, et sont méticuleusement sélectionnés pour refléter nos critères de qualité, d’esthétique et d’écoresponsabilité.<br\/><\/p><p><strong>Pourquoi produire à partir de matériaux existants ?<br\/><\/strong>Dans notre engagement pour un mode de production plus responsable, la création de collection à partir de stocks dormants permet de lutter contre le gaspillage des matériaux issus de l’industrie textile. Les quantités sont donc limitées en fonction des quantités de tissus et merceries récupérés.<br\/><\/p>",
+            "heading": "Nos tissus",
+            "icon": "recycle",
+            "content": "<p>Nos tissus sont issus de stocks dormants de grandes maisons de couture d'où leur qualité et tombé incomparables.<strong><br\/><br\/>Qu'est-ce que des stocks dormants ?<br\/><\/strong>Ce sont principalement des fins de série, des chutes de tissus et merceries délaissés dans les entrepôts par des marques et des fabricants. <br\/><br\/>Chez ÂGE, nous ne produisons pas de nouveaux matériaux, nous réutilisons l’existant pour créer nos collections. <br\/>Nos matériaux proviennent de maisons de Couture, de fabricants de tissus, et sont méticuleusement sélectionnés pour refléter nos critères de qualité, d’esthétique et d’écoresponsabilité.<\/p><p><strong>Pourquoi produire à partir de matériaux existants ?<br\/><\/strong>Dans notre engagement pour un mode de production plus responsable, la création de collection à partir de stocks dormants permet de lutter contre le gaspillage des matériaux issus de l’industrie textile. Les quantités sont donc limitées en fonction des quantités de tissus et merceries récupérés.<\/p>",
             "page": ""
           }
         },
         "148fd12d-9e60-4548-a1e0-2cc0f10dad6a": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Pièces sur commande",
-            "icon": "none",
-            "content": "<p><strong>Que signifie \"sur commande\" ?<\/strong><br\/>Un produit \"sur commande\" signifie que vous achetez le vêtement avant qu’il ne soit produit. Cela nous permet d'ajuster nos quantités en fonction des commandes reçues et d’éviter ainsi la surproduction.<\/p><p><strong>Combien de temps vais-je attendre ma commande ?<br\/><\/strong>Notre délai de livraison pour les pièces à la commande est de 2 semaines. Nous vous tenons au courant par email de l’avancée de votre commande et répondons également à toutes vos questions sur instagram ou par email à bonjour@ageparis.fr<\/p>",
+            "heading": "Disponible sur commande",
+            "icon": "clipboard",
+            "content": "<p><strong>Que signifie \"Disponible sur commande\" ?<br\/><\/strong>Si nous n'avons pas de stock disponible, votre pièce est fabriquée à la commande par notre atelier à Paris.<br\/>Vous achetez le vêtement avant qu’il ne soit produit. Cela nous permet d'ajuster nos quantités en fonction des commandes reçues et d’éviter ainsi la surproduction.<\/p><p><strong>Combien de temps vais-je attendre ma commande ?<br\/><\/strong>Le délai approximatif d’expédition pour les pièces à la commande est de 2 semaines. Vous recevrez un e-mail une fois votre commande envoyée avec le numéro de suivi.<\/p>",
             "page": ""
           }
         },
@@ -90,7 +90,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Livraison et retours",
-            "icon": "none",
+            "icon": "box",
             "content": "<p>France avec Mondial Relai ou La Poste<br\/><em>Mondial Relay – gratuit (2-5 jours ouvrables)<br\/>Standard – 10€ (2-4 jours ouvrables)<br\/>Express – 20€ (24H)<\/em><br\/><br\/>Paris coursier<br\/>20€ (disponible uniquement les jours ouvrés pour les commandes passées avant 15h)<br\/><br\/>Union Européenne <br\/>Livraison Standard - 15€ (2-8 jours ouvrables) <br\/>Livraison Express – 25 € (24 à 72H)<br\/><br\/>Livraison hors Union Européenne <br\/>Livraison Standard - 20€ (4 -10 jours ouvrés) <br\/><br\/>Les commandes passées avant 12:00 (CEST) seront envoyées le jour même. (hors week-end et jours fériés français)<br\/>Pour plus de détails, lisez notre <a href=\"\/pages\/frais-de-livraison\" title=\"Frais de livraison\">politique d'expédition<\/a>.<br\/><\/p><p>• RETOURS : <br\/>Vous avez 14 jours à compter de la date de livraison de votre commande pour nous retourner gratuitement les articles.<br\/><br\/>Pour plus de détails, découvrez notre politique de <a href=\"\/pages\/retours-echanges-et-remboursements\" title=\"Retours, échanges et remboursements\">retours et échanges.<\/a><\/p>",
             "page": ""
           }
