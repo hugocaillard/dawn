@@ -20,17 +20,17 @@
         "template--17191590789401__6a52953e-450d-4397-90bd-996483b47c14-1670519196493c2a9c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>ÂGE Paris présente sa nouvelle collection Printemps\/Éte “Icônes”.Inspirée de l'univers fantasque du cinéma Hollywoodien et de l'aura charismatique de ses actrices emblématiques. Affirmée et inspirante, cette collection est une invitation à devenir l'héroïne de notre propre vie.<\/p>"
+            "text": "<p>ÂGE Paris présente sa nouvelle collection Printemps\/Éte “Icônes”. Inspirée de l'univers fantasque du cinéma Hollywoodien et de l'aura charismatique de ses actrices emblématiques. Affirmée et inspirante, cette collection est une invitation à s'affirmer en tant que l'héroïne de notre vie.<\/p>"
           }
         },
         "template--17191590789401__6a52953e-450d-4397-90bd-996483b47c14-1670519196493c2a9c-2": {
           "type": "button",
           "settings": {
             "button_label": "Télécharger le Kit Press - via WeTransfer",
-            "button_link": "https:\/\/we.tl\/b-vYyrDqusLM",
+            "button_link": "https:\/\/we.tl\/b-0lMlxtKYGH",
             "button_style_secondary": true,
             "button_label_2": "Télécharger le Kit Press - via Google Drive",
-            "button_link_2": "https:\/\/drive.google.com\/drive\/folders\/1MyqLD9v_mMZzA-1Yj-62_4g8OHRpNKxb?usp=drive_link",
+            "button_link_2": "",
             "button_style_secondary_2": true
           }
         }
@@ -408,94 +408,6 @@
         "padding_bottom": 36
       }
     },
-    "240efcf6-6789-4c61-b3ef-65291b3f219a": {
-      "type": "multicolumn",
-      "blocks": {
-        "ed526f6f-1fab-47c3-bfa9-6cc6dd67a1e8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MG_9654_afb99d65-ae56-45eb-b90e-c0b717e747a3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/products\/varsity-blazer-cady"
-          }
-        },
-        "template--17191590789401__240efcf6-6789-4c61-b3ef-65291b3f219a-1687784321aca649ea-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MG_9830_a279a0cc-1675-488e-b4f3-7f241f635d8a.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "3097a495-cebc-47ee-995a-dd809175e641": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MG_9930-2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/products\/varsity-blazer-janis"
-          }
-        },
-        "9959350c-d10b-44e7-bf03-425aba796e09": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_9480_retouche_27f17452-eabf-4d99-b7d5-bc86dc20aba7.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/products\/varsity-blazer-gretchen"
-          }
-        },
-        "template--17191590789401__240efcf6-6789-4c61-b3ef-65291b3f219a-1687784321aca649ea-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MG_9764-2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/products\/varsity-blazer-regina"
-          }
-        },
-        "8d31a1e3-f2de-40f4-b76f-ceb074e7b2c3": {
-          "type": "column",
-          "settings": {
-            "title": "ÂGE Yearbook",
-            "text": "",
-            "link_label": "Découvrir la collection",
-            "link": "shopify:\/\/collections\/varsity-blazers"
-          }
-        }
-      },
-      "block_order": [
-        "ed526f6f-1fab-47c3-bfa9-6cc6dd67a1e8",
-        "template--17191590789401__240efcf6-6789-4c61-b3ef-65291b3f219a-1687784321aca649ea-2",
-        "3097a495-cebc-47ee-995a-dd809175e641",
-        "9959350c-d10b-44e7-bf03-425aba796e09",
-        "template--17191590789401__240efcf6-6789-4c61-b3ef-65291b3f219a-1687784321aca649ea-0",
-        "8d31a1e3-f2de-40f4-b76f-ceb074e7b2c3"
-      ],
-      "settings": {
-        "title": "VARSITY BLAZERS (2024)",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "7e59b0af-cbae-47a6-8c5f-3d514c8e0374": {
       "type": "multicolumn",
       "blocks": {
@@ -582,7 +494,6 @@
     "f8b587f5-1d35-4726-8574-1c4e91fd0336",
     "7a15df17-8cd1-40f4-bac5-53a2394e7132",
     "multicolumn_MTCRb7",
-    "240efcf6-6789-4c61-b3ef-65291b3f219a",
     "7e59b0af-cbae-47a6-8c5f-3d514c8e0374"
   ]
 }
