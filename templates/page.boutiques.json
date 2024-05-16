@@ -66,6 +66,7 @@
         "heading_pFtaLm",
         "text_XN6UMy"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/274002832_1897118630675625_7665141661799752235_n.jpg",
         "image_overlay_opacity": 0,
@@ -116,7 +117,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_3941.webp",
-        "image_2": "shopify:\/\/shop_images\/IMG_3941.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
