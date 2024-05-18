@@ -547,6 +547,14 @@
           "message": {
             "many": "These items will be removed from your basket, as there is no delivery method available for your address."
           }
+        },
+        "unfulfillable_product": {
+          "message": {
+            "many": "%{delivery_method} is no longer available for these items."
+          },
+          "default_message": {
+            "many": "The chosen delivery method is no longer available for these items."
+          }
         }
       },
       "order_summary": {
@@ -751,6 +759,11 @@
         "estimated_wait_time": {
           "many": "Waiting time is estimated at {{count}} minutes"
         }
+      },
+      "customer_account": {
+        "saved_address_option_description": {
+          "many": "You have {{count}} addresses saved."
+        }
       }
     },
     "notices": {
@@ -809,6 +822,9 @@
         },
         "gift_resend_failure": {
           "many": "There was a problem resending your gift cards. Try again or contact us."
+        },
+        "delivered_description_digital": {
+          "many": "These articles are finished."
         }
       },
       "if_not_received": {
