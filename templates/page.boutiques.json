@@ -50,7 +50,7 @@
         "heading_pFtaLm": {
           "type": "heading",
           "settings": {
-            "heading": "Safe Urban Concept",
+            "heading": "Pop up \"Le Sud\"",
             "heading_size": "h2"
           }
         },
@@ -66,7 +66,6 @@
         "heading_pFtaLm",
         "text_XN6UMy"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/274002832_1897118630675625_7665141661799752235_n.jpg",
         "image_overlay_opacity": 0,
