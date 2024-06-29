@@ -15,8 +15,8 @@
         "heading_6Hcig6": {
           "type": "heading",
           "settings": {
-            "heading": "LES ARCHIVES",
-            "heading_size": "h1"
+            "heading": "ARCHIVES",
+            "heading_size": "h0"
           }
         },
         "buttons_BMN9JV": {
@@ -24,7 +24,7 @@
           "settings": {
             "button_label_1": "JUSQU'A -50%",
             "button_link_1": "shopify:\/\/collections\/vente-archives",
-            "button_style_secondary_1": false,
+            "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -37,7 +37,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/AGEPARIS-blazercorset.png",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
