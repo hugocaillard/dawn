@@ -1,5 +1,54 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
+    "image_banner_3DwPMX": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_6Hcig6": {
+          "type": "heading",
+          "settings": {
+            "heading": "LES ARCHIVES",
+            "heading_size": "h1"
+          }
+        },
+        "buttons_BMN9JV": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "JUSQU'A -50%",
+            "button_link_1": "shopify:\/\/collections\/vente-archives",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Hcig6",
+        "buttons_BMN9JV"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AGEPARIS-blazercorset.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -615,6 +664,7 @@
     }
   },
   "order": [
+    "image_banner_3DwPMX",
     "image_banner",
     "image_banner_NR6ijx",
     "image_banner_mGahmR",
