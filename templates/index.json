@@ -54,6 +54,7 @@
       "blocks": {
         "heading_zR8JB4": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "NOUVELLE COLLECTION",
             "heading_size": "h2"
@@ -62,7 +63,7 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "DÉCOUVRIR",
+            "button_label_1": "NOUVELLE COLLECTION",
             "button_link_1": "shopify:\/\/collections\/printemps-ete",
             "button_style_secondary_1": true,
             "button_label_2": "",
