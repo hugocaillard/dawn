@@ -75,6 +75,7 @@
         "heading_pFtaLm",
         "text_XN6UMy"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/vieux-port-de-nuit.1612931.jpg",
         "image_overlay_opacity": 0,
@@ -86,7 +87,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "image_banner_j6q9Pp": {
