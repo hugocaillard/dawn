@@ -9,46 +9,6 @@
 */
 {
   "sections": {
-    "image_banner_3DwPMX": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_6Hcig6": {
-          "type": "heading",
-          "settings": {
-            "heading": "ARCHIVES",
-            "heading_size": "h0"
-          }
-        },
-        "buttons_BMN9JV": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "DÉCOUVRIR",
-            "button_link_1": "shopify:\/\/collections\/vente-archives",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_6Hcig6",
-        "buttons_BMN9JV"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/AGEPARIS-blazercorset.png",
-        "image_overlay_opacity": 20,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "fixed",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -80,7 +40,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/AGEPARIS_jf_052.jpg",
+        "image": "shopify:\/\/shop_images\/NIK4064.jpg",
         "image_overlay_opacity": 10,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -112,7 +72,7 @@
         "buttons_gJmBdD"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/AGEPARIS_jf_055_copie.jpg",
+        "image": "shopify:\/\/shop_images\/NIK3928.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -154,6 +114,46 @@
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-4",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_banner_3DwPMX": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_6Hcig6": {
+          "type": "heading",
+          "settings": {
+            "heading": "ARCHIVES",
+            "heading_size": "h0"
+          }
+        },
+        "buttons_BMN9JV": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "DÉCOUVRIR",
+            "button_link_1": "shopify:\/\/collections\/vente-archives",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Hcig6",
+        "buttons_BMN9JV"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AGEPARIS-blazercorset.png",
+        "image_overlay_opacity": 20,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
         "image_behavior": "fixed",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
@@ -665,10 +665,10 @@
     }
   },
   "order": [
-    "image_banner_3DwPMX",
     "image_banner",
     "image_banner_NR6ijx",
     "image_banner_mGahmR",
+    "image_banner_3DwPMX",
     "rich_text_UfnyxG",
     "1c105ddc-7efc-405f-b73e-c49eb1ec75f5",
     "collage",
