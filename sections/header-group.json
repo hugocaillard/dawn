@@ -18,7 +18,7 @@
           "type": "announcement",
           "settings": {
             "text": "Vente Archives —— Jusqu’à -50%",
-            "link": "https:\/\/ageparis.fr\/discount\/SELFLOVE"
+            "link": "shopify:\/\/collections\/vente-archives"
           }
         }
       },
