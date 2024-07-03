@@ -16,9 +16,8 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "-20% avec le code SELFLOVE",
+            "text": "Vente Archives —— Jusqu’à -50%",
             "link": "https:\/\/ageparis.fr\/discount\/SELFLOVE"
           }
         }
