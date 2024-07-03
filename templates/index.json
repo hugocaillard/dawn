@@ -72,7 +72,7 @@
         "buttons_gJmBdD"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/NIK3943_9422ab43-8633-407d-ab42-6b7c927d6a45.jpg",
+        "image": "shopify:\/\/shop_images\/Zoom_tailleyr_jupe.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -125,6 +125,7 @@
       "blocks": {
         "heading_6Hcig6": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "ARCHIVES",
             "heading_size": "h0"
@@ -146,6 +147,7 @@
         "heading_6Hcig6",
         "buttons_BMN9JV"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/AGEPARIS-blazercorset.png",
         "image_overlay_opacity": 20,
