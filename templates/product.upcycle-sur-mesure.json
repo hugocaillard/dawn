@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -187,7 +196,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "VOIR LES PIECES SUR COMMANDE",
-            "button_link_1": "shopify:\/\/collections\/pieces-sur-commande",
+            "button_link_1": "shopify:\/\/collections\/les-iconiques",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",

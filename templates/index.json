@@ -274,7 +274,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "pieces-sur-commande",
+        "collection": "les-iconiques",
         "products_to_show": 4,
         "columns_desktop": 3,
         "full_width": true,
