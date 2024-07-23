@@ -67,6 +67,54 @@
         "padding_bottom": 0
       }
     },
+    "image_with_text_daw7QW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_E7iy7M": {
+          "type": "heading",
+          "settings": {
+            "heading": "Donnez une seconde vie à vos blazers",
+            "heading_size": "h1"
+          }
+        },
+        "text_cN7FVa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Le costume de votre grand-père\/papa ou cette pièce que vous adorez mais qui est trop grande pour vous, nous donnons une seconde vie aux pièces qui ont une histoire et de la valeur pour vous.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_6z8mnn": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_E7iy7M",
+        "text_cN7FVa",
+        "button_6z8mnn"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/NIK4557.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "1661526058700f3ecf": {
       "type": "image-with-text",
       "blocks": {
@@ -90,7 +138,7 @@
         "16615260578c9835a1-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/image00003_copie.jpg",
+        "image": "shopify:\/\/shop_images\/Capture_d_ecran_2024-07-03_a_17.18.42.png",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -105,101 +153,9 @@
         "padding_bottom": 36
       }
     },
-    "16615263232b51ad42": {
-      "type": "image-with-text",
-      "blocks": {
-        "166152632226f5d76c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "ECO-CONSCIOUSNESS AND CRAFTSMANSHIP.",
-            "heading_size": "h2"
-          }
-        },
-        "166152632226f5d76c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>ÂGE Paris, c’est tout d’abord l’envie de s’engager dans le mouvement de la mode responsable. Impossible  pour nous de concevoir une marque de vêtements en ignorant les enjeux de l’industrie la plus polluante au monde, et sans prendre en compte les enjeux sociétaux.<\/p><p><\/p><p><strong>Notre pari<\/strong> : prolonger la durée de vie de pièces oubliées dans les placards. Chaque pièce est repensée et retouchée pour lui apporter un design actuel, intemporel et durable. ÂGE, c'est des pièces de votre garde-robe à porter tous les jours, pour toujours.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "166152632226f5d76c-0",
-        "166152632226f5d76c-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Age_Paris40.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "166152656579858d54": {
-      "type": "image-with-text",
-      "blocks": {
-        "1661526565a2352735-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Une production locale s’est très rapidement imposée comme une priorité. À la fois pour réduire notre impact environnemental et soutenir les commerces locaux, mais également afin de bénéficier d’un savoir-faire français de qualité. Nos collections sont créées et fabriquées dans nos ateliers à Paris, par des couturiers ou tailleurs ayant notamment travaillé pour des maisons telles que Christian Dior ou Emmanuelle Khanh. Nous proposons de petites quantités, au gré de nos trouvailles et de nos inspirations. <strong>Chaque pièce est unique. <\/strong><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "1661526565a2352735-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/220182227_1240615843023090_4343133155208445267_n.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1661526524b93a7323": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Age_Paris7-3.jpg",
-        "image_2": "shopify:\/\/shop_images\/110A4322-Modifier.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "166152684490d6af87": {
       "type": "image-with-text",
       "blocks": {
-        "166152684415601b4b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Friends story",
-            "heading_size": "h2"
-          }
-        },
         "166152684415601b4b-1": {
           "type": "text",
           "settings": {
@@ -209,7 +165,6 @@
         }
       },
       "block_order": [
-        "166152684415601b4b-0",
         "166152684415601b4b-1"
       ],
       "settings": {
@@ -236,7 +191,7 @@
           "settings": {
             "heading": "Comment ça se passe ?",
             "icon": "none",
-            "row_content": "<p><strong>Prise de rendez-vous :<br\/><\/strong>Planifiez votre rendez-vous en nous contactant directement ou via les créneaux proposés sur notre site.<\/p><p>Le paiement du rendez-vous de 50€ se fait à la réservation.<\/p><p><strong>Durant le rendez-vous :<br\/><\/strong>Essayages et définition de votre projet.<br\/>Prise de mesures.£<br\/>Choix parmi des dizaines de pièces vintages ou recherche d'une pièce spécifique si rien ne convient.<\/p><p><strong>Après le rendez-vous :<br\/><\/strong>Confirmation de la commande et paiement du modèle choisi.<br\/>Options de broderie et autres personnalisations disponibles.<br\/>Possibilité d'envoyer une carte cadeau personnalisée à imprimer.<\/p>",
+            "row_content": "<p><strong>Prise de rendez-vous :<br\/><\/strong>Planifiez votre rendez-vous en nous contactant directement ou via les créneaux proposés sur notre site.<br\/>Le paiement du rendez-vous de 50€ se fait à la réservation.<\/p><p><strong>Durant le rendez-vous :<br\/><\/strong>Essayages et définition de votre projet.<br\/>Prise de mesures.<br\/>Choix parmi des dizaines de pièces vintages ou recherche d'une pièce spécifique si rien ne convient.<\/p><p><strong>Après le rendez-vous :<br\/><\/strong>Confirmation de la commande et paiement du modèle choisi.<br\/>Options de broderie et autres personnalisations disponibles.<br\/>Possibilité d'envoyer une carte cadeau personnalisée à imprimer.<\/p>",
             "page": ""
           }
         },
@@ -276,11 +231,11 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "FAQ",
-        "heading_size": "h1",
+        "heading": "Co-création",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
@@ -288,16 +243,80 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16615263232b51ad42": {
+      "type": "image-with-text",
+      "blocks": {
+        "166152632226f5d76c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CONTACTEZ-NOUS",
+            "heading_size": "h2"
+          }
+        },
+        "166152632226f5d76c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pour plus d'informations ou pour réserver votre rendez-vous de co-création, n'hésitez pas à nous contacter. Nous sommes impatients de vous aider à créer le blazer de vos rêves !<\/p><p><strong>Adresse du showroom :<\/strong> Appartement GE, métro ligne 1 Argentine.<br\/><strong>Téléphone :<\/strong> [Votre numéro de téléphone]<br\/><strong>Email :<\/strong> [Votre email]<br\/><strong>Instagram :<\/strong> @age__paris<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_kp33xP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "166152632226f5d76c-0",
+        "166152632226f5d76c-1",
+        "button_kp33xP"
+      ],
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1661526524b93a7323": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Age_Paris7-3.jpg",
+        "image_2": "shopify:\/\/shop_images\/110A4322-Modifier.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "image_banner_y9A73L",
     "main",
+    "image_with_text_daw7QW",
     "1661526058700f3ecf",
-    "16615263232b51ad42",
-    "166152656579858d54",
-    "1661526524b93a7323",
     "166152684490d6af87",
-    "collapsible_content_Pe77qz"
+    "collapsible_content_Pe77qz",
+    "16615263232b51ad42",
+    "1661526524b93a7323"
   ]
 }
