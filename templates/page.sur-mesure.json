@@ -235,7 +235,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Comment ça se passe ?",
-            "icon": "star",
+            "icon": "none",
             "row_content": "<p><strong>Prise de rendez-vous :<br\/><\/strong>Planifiez votre rendez-vous en nous contactant directement ou via les créneaux proposés sur notre site.<\/p><p>Le paiement du rendez-vous de 50€ se fait à la réservation.<\/p><p><strong>Durant le rendez-vous :<br\/><\/strong>Essayages et définition de votre projet.<br\/>Prise de mesures.£<br\/>Choix parmi des dizaines de pièces vintages ou recherche d'une pièce spécifique si rien ne convient.<\/p><p><strong>Après le rendez-vous :<br\/><\/strong>Confirmation de la commande et paiement du modèle choisi.<br\/>Options de broderie et autres personnalisations disponibles.<br\/>Possibilité d'envoyer une carte cadeau personnalisée à imprimer.<\/p>",
             "page": ""
           }
