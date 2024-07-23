@@ -9,8 +9,59 @@
 */
 {
   "sections": {
+    "image_banner_y9A73L": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_yqHXpM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Blazers Upcyclés Sur-Mesure",
+            "heading_size": "h1"
+          }
+        },
+        "text_aTU9ET": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_LGcN73": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yqHXpM",
+        "text_aTU9ET",
+        "buttons_LGcN73"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AGEPARIS_jf_055_copie.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 0
@@ -22,14 +73,14 @@
         "16615260578c9835a1-0": {
           "type": "heading",
           "settings": {
-            "heading": "WE CREATE BEAUTY FROM USED CLOTHES.",
+            "heading": "Faites plaisir ou faites-vous plaisir avec un cadeau unique",
             "heading_size": "h2"
           }
         },
         "16615260578c9835a1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>ÂGE Paris s’adresse aux <strong>amoureux du vintage<\/strong> et à ceux qui aiment se distinguer par des <strong>pièces uniques<\/strong>. Nous voulons aussi et surtout parler à ceux qui aiment la mode, mais valorisent avant tout les ressources de la planète et la <strong>consommation consciente<\/strong>.<\/p><p>ÂGE Paris revalorise des vêtements et accessoires de seconde main et confectionne des pièces modes durables <strong>au coeur de Paris<\/strong>. Nous proposons de petites quantités, au gré des trouvailles et des inspirations. Nous croyons en une <strong>mode plus durable<\/strong> et valorisée, avec des pièces qui peuvent être transmises comme <strong>un héritage familial<\/strong>.<\/p>",
+            "text": "<p>Notre offre sur-mesure de blazers upcyclés est l'idée cadeau parfaite pour un anniversaire ou les fêtes de fin d'année. Offrez une expérience de co-création et un blazer personnalisé, fait pour durer.<\/p>",
             "text_style": "body"
           }
         }
@@ -42,11 +93,13 @@
         "image": "shopify:\/\/shop_images\/image00003_copie.jpg",
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -82,7 +135,9 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -110,7 +165,9 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -127,6 +184,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -162,19 +220,84 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_Pe77qz": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_e8t6VE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Comment ça se passe ?",
+            "icon": "star",
+            "row_content": "<p><strong>Prise de rendez-vous :<br\/><\/strong>Planifiez votre rendez-vous en nous contactant directement ou via les créneaux proposés sur notre site.<\/p><p>Le paiement du rendez-vous de 50€ se fait à la réservation.<\/p><p><strong>Durant le rendez-vous :<br\/><\/strong>Essayages et définition de votre projet.<br\/>Prise de mesures.£<br\/>Choix parmi des dizaines de pièces vintages ou recherche d'une pièce spécifique si rien ne convient.<\/p><p><strong>Après le rendez-vous :<br\/><\/strong>Confirmation de la commande et paiement du modèle choisi.<br\/>Options de broderie et autres personnalisations disponibles.<br\/>Possibilité d'envoyer une carte cadeau personnalisée à imprimer.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CYi4pK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Nos Modèles et Tarifs",
+            "icon": "none",
+            "row_content": "<h4>Blazers Standard :<\/h4><ul><li><strong>Blazer Cropped :<\/strong> 150€<\/li><li><strong>Blazer Paloma (à pince) ou Corset :<\/strong> 200€<\/li><li><strong>Blazer Mia, Jane ou Tina :<\/strong> 250€<\/li><li><strong>Autres projets ou modèles :<\/strong> Sur devis<\/li><\/ul><h4>Formules Cadeaux :<\/h4><ul><li><strong>300€<\/strong> : Rendez-vous physique, recherche, upcycling - Carte cadeau pour les modèles Jane, Tina, Mia, tailleur jupe, corset, Iris…<\/li><li><strong>200€<\/strong> : Rendez-vous physique, recherche, upcycling - Carte cadeau pour les modèles Cropped, Paloma<\/li><li><strong>200€<\/strong> : Rendez-vous physique, recherche, upcycling - Carte cadeau pour un blazer simple avec broderie personnalisée<\/li><li><strong>Upcycling d'un blazer vous appartenant :<\/strong> 250€<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BxdhrL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Offrez une Carte Cadeau",
+            "icon": "none",
+            "row_content": "<p>🎁 <strong>Carte Cadeau Personnalisée :<\/strong><\/p><ul><li>Vous pouvez choisir le modèle à l'avance ou laisser la personne décider lors du rendez-vous de co-création.<\/li><li>Carte cadeau imprimable et personnalisée, parfaite pour offrir.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wrYXaW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Avantages de notre offre sur-mesure",
+            "icon": "none",
+            "row_content": "<ul><li><strong>Unique :<\/strong> Chaque blazer est unique et personnalisé selon vos goûts et besoins.<\/li><li><strong>Durable :<\/strong> Nos blazers sont confectionnés à partir de pièces vintages, promouvant une mode durable.<\/li><li><strong>Expérience de co-création :<\/strong> Participez à la création de votre blazer pour une pièce qui vous ressemble vraiment.<\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_e8t6VE",
+        "collapsible_row_CYi4pK",
+        "collapsible_row_BxdhrL",
+        "collapsible_row_wrYXaW"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
+    "image_banner_y9A73L",
     "main",
     "1661526058700f3ecf",
     "16615263232b51ad42",
     "166152656579858d54",
     "1661526524b93a7323",
-    "166152684490d6af87"
+    "166152684490d6af87",
+    "collapsible_content_Pe77qz"
   ]
 }
