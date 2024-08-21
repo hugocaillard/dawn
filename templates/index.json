@@ -23,8 +23,8 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Le vestiaire d'été",
-            "button_link_1": "shopify:\/\/collections\/drop-dete",
+            "button_label_1": "Back to work",
+            "button_link_1": "shopify:\/\/collections\/officewear-indispensables",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -40,7 +40,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_short.jpg",
+        "image": "shopify:\/\/shop_images\/NIK3928.jpg",
         "image_overlay_opacity": 10,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -447,6 +447,7 @@
             "title": "",
             "title_color": "",
             "alignment": "center",
+            "background_color": "",
             "html_area": ""
           }
         }
