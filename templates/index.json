@@ -302,12 +302,12 @@
         "slide_qPLjke": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/79.png",
-            "heading": "Nouvelle collection",
+            "image": "shopify:\/\/shop_images\/Capture_d_ecran_2024-07-03_a_17.18.06.png",
+            "heading": "Les iconiques",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "DÉCOUVRIR",
-            "link": "shopify:\/\/collections\/printemps-ete",
+            "link": "shopify:\/\/collections\/les-iconiques",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": false,
