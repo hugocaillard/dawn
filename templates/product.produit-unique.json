@@ -71,7 +71,7 @@
           "settings": {
             "heading": "Pièce unique upcyclée",
             "icon": "recycle",
-            "content": "{{ block.settings.page.metafields.custom.pi_ce_unique_unique_upcycl_e | metafield_tag }}",
+            "content": "{{ block.settings.page.metafields.custom.pi_ce_unique_unique_upcycl_e | metafield_tag }}{{ block.settings.page.metafields.custom.que_faire_si_j_adore_cette_pi_ce_mais_ce_n_est_pas_ma_taille_ | metafield_tag }}",
             "page": "dropdown-livraison"
           }
         },
