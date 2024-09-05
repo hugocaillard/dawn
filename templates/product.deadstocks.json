@@ -232,7 +232,7 @@
         "template--16928264126745__a1958c3e-b2eb-4d6d-8bd7-cdae0804418d-1670429635aa96e28a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/10_17bfa8eb-a899-4d4e-ba1a-9ee3e1f8766b.png",
+        "image": "shopify:\/\/shop_images\/AGEPARIS_jf_056_copie.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -244,106 +244,12 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "slideshow_3UGE6i": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_dDjzGx": {
-          "type": "slide",
-          "settings": {
-            "image": "{{ product.metafields.custom.carrousel_produit.value }}",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_dDjzGx"
-      ],
-      "settings": {
-        "layout": "grid",
-        "slide_height": "large",
-        "slider_visual": "dots",
-        "auto_rotate": false,
-        "change_slides_speed": 3,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": ""
-      }
-    },
-    "multicolumn_GHTcCC": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_REiggG": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7681_copie.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gj6bED": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7642.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jqnAzX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_7640.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_REiggG",
-        "column_gj6bED",
-        "column_jqnAzX"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
     "related-products",
     "multicolumn",
-    "a1958c3e-b2eb-4d6d-8bd7-cdae0804418d",
-    "slideshow_3UGE6i",
-    "multicolumn_GHTcCC"
+    "a1958c3e-b2eb-4d6d-8bd7-cdae0804418d"
   ]
 }
