@@ -147,8 +147,8 @@
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": true,
-        "padding_top": 80,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 92
       }
     },
     "related-products": {
