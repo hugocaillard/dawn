@@ -166,51 +166,7 @@
         "show_rating": false,
         "columns_mobile": "2",
         "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "Livraison gratuite en France",
-            "text": "<p>La livraison via Mondial Relay est <strong>gratuite*<\/strong>, sans minimum d'achat.<br\/><\/p><p><em>*valable pour la France Métropolitaine, Belgique, Espagne, Luxembourg, Pays-Bas et Portugal<\/em><\/p>",
-            "link_label": "Voir nos autres options de livraison",
-            "link": "shopify:\/\/pages\/frais-de-livraison"
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Retours, échanges et remboursements",
-            "text": "<p>Tu disposes de 15 jours dès réception de ta commande pour retourner tes produits. <\/p>",
-            "link_label": "En savoir plus",
-            "link": "shopify:\/\/pages\/retours-echanges-et-remboursements"
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 52
       }
     },
     "a1958c3e-b2eb-4d6d-8bd7-cdae0804418d": {
@@ -249,7 +205,6 @@
   "order": [
     "main",
     "related-products",
-    "multicolumn",
     "a1958c3e-b2eb-4d6d-8bd7-cdae0804418d"
   ]
 }
