@@ -152,8 +152,8 @@
         "template--16928264126745__a1958c3e-b2eb-4d6d-8bd7-cdae0804418d-1670429635aa96e28a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "VOIR LA NOUVELLE COLLECTION",
-            "button_link_1": "shopify:\/\/collections\/printemps-ete",
+            "button_label_1": "VOIR LES PIECES UNIQUES",
+            "button_link_1": "shopify:\/\/collections\/piece-uniques-upcyclees",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
