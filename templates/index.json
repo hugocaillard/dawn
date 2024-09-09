@@ -185,6 +185,54 @@
         "padding_bottom": 52
       }
     },
+    "image_with_text_LBDBEG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tbL4tP": {
+          "type": "heading",
+          "settings": {
+            "heading": "ÂGE AUX GALERIES LAFAYETTE HAUSSMANN",
+            "heading_size": "h1"
+          }
+        },
+        "text_zCBBq8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Retrouvez-nous toute l'année aux Galeries Lafayette Haussmann.<br\/>3ème étage, espace (RE)store. L'occasion d'essayer nos pièces uniques, et exclusives !<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_yGqeb3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tbL4tP",
+        "text_zCBBq8",
+        "button_yGqeb3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_6160.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1c105ddc-7efc-405f-b73e-c49eb1ec75f5": {
       "type": "rich-text",
       "blocks": {
@@ -673,6 +721,7 @@
     "image_banner_mGahmR",
     "image_banner_3DwPMX",
     "rich_text_UfnyxG",
+    "image_with_text_LBDBEG",
     "1c105ddc-7efc-405f-b73e-c49eb1ec75f5",
     "collage",
     "featured_collection",
