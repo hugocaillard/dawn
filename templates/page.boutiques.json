@@ -180,7 +180,7 @@
           "type": "column",
           "settings": {
             "title": "Seezona",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Seezona est une marketplace internationale basée à Stockholm, en Suède, qui sélectionne avec soin les marques de mode émergentes fondées par des femmes du monde entier. Leur engagements est de mettre en avant des créatrices émergentes, tout en valorisant l'artisanat et la durabilité.<\/p>",
             "link_label": "Découvrir la sélection sur Seezona",
             "link": "https:\/\/www.seezona.com\/shopping\/designer\/age-paris"
           }
@@ -214,8 +214,8 @@
         "title": "En ligne",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "image_ratio": "circle",
+        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Button label",
@@ -223,7 +223,7 @@
         "color_scheme": "scheme-02304338-599a-4f34-a772-4039464f5858",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 60,
         "padding_bottom": 36
       }
     }
