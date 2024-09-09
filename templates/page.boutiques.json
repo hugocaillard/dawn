@@ -11,7 +11,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 0
@@ -151,7 +150,7 @@
         "text_bFA6dA": {
           "type": "text",
           "settings": {
-            "text": "📍 LES ETABLIS, <a href=\"https:\/\/maps.app.goo.gl\/odQC72kZH9QjjKXB7\" target=\"_blank\" title=\"https:\/\/maps.app.goo.gl\/odQC72kZH9QjjKXB7\">73 rue Beaubourg, 75003 Paris<\/a>",
+            "text": "📍 LES ETABLIS, <a href=\"https:\/\/maps.app.goo.gl\/odQC72kZH9QjjKXB7\" target=\"_blank\" title=\"https:\/\/maps.app.goo.gl\/odQC72kZH9QjjKXB7\">73 rue Beaubourg, 75003 Paris.<\/a> Sélection : Boxing Short et Pantalon Paros",
             "text_style": "caption-with-letter-spacing"
           }
         }
@@ -162,53 +161,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/14dd0996-9f2c-4b17-aa03-4f2156ccbf8e.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "image_banner_T6taDf": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_VhKdFr": {
-          "type": "heading",
-          "settings": {
-            "heading": "Appartement ÂGE",
-            "heading_size": "h2"
-          }
-        },
-        "text_CbVxic": {
-          "type": "text",
-          "settings": {
-            "text": "📍 Métro Argentine, Paris 16e",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
-        "buttons_QAALzn": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Réserver un essayage",
-            "button_link_1": "shopify:\/\/products\/essayages",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_VhKdFr",
-        "text_CbVxic",
-        "buttons_QAALzn"
-      ],
-      "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -258,7 +210,7 @@
         "column_hNJt6i"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "En ligne",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -281,7 +233,6 @@
     "image_banner_dtRgFT",
     "image_banner_j6q9Pp",
     "image_banner_X89RdK",
-    "image_banner_T6taDf",
     "multicolumn_8QeBtY"
   ]
 }
