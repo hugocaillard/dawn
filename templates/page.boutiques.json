@@ -151,7 +151,7 @@
         "text_bFA6dA": {
           "type": "text",
           "settings": {
-            "text": "📍 73 rue Beaubourg, 75003 Paris",
+            "text": "📍 LES ETABLIS, <a href=\"https:\/\/maps.app.goo.gl\/odQC72kZH9QjjKXB7\" target=\"_blank\" title=\"https:\/\/maps.app.goo.gl\/odQC72kZH9QjjKXB7\">73 rue Beaubourg, 75003 Paris<\/a>",
             "text_style": "caption-with-letter-spacing"
           }
         }
