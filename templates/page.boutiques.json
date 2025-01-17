@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -29,7 +29,7 @@
         "text_NgafiN": {
           "type": "text",
           "settings": {
-            "text": "📍Espace (RE)STORE, 3ème étage - <a href=\"https:\/\/maps.app.goo.gl\/KYos8AhX2YyYU9Qe7\" target=\"_blank\" title=\"https:\/\/maps.app.goo.gl\/KYos8AhX2YyYU9Qe7\">40 Bd Haussmann, 75009 Paris<\/a>",
+            "text": "📍Espace (RE)STORE, 3ème étage - <a href=\"https://maps.app.goo.gl/KYos8AhX2YyYU9Qe7\" target=\"_blank\" title=\"https://maps.app.goo.gl/KYos8AhX2YyYU9Qe7\">40 Bd Haussmann, 75009 Paris</a>",
             "text_style": "caption-with-letter-spacing"
           }
         }
@@ -39,7 +39,7 @@
         "text_NgafiN"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/image_7d35dec0-81e9-4e43-a5bf-4f924394482a.jpg",
+        "image": "shopify://shop_images/image_7d35dec0-81e9-4e43-a5bf-4f924394482a.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -65,7 +65,7 @@
         "text_XN6UMy": {
           "type": "text",
           "settings": {
-            "text": "📍<a href=\"https:\/\/g.co\/kgs\/XvQ2p1q\" target=\"_blank\" title=\"https:\/\/g.co\/kgs\/XvQ2p1q\">25 rue de la république, 75003 Marseille<\/a>",
+            "text": "📍<a href=\"https://g.co/kgs/XvQ2p1q\" target=\"_blank\" title=\"https://g.co/kgs/XvQ2p1q\">25 rue de la république, 75003 Marseille</a>",
             "text_style": "caption-with-letter-spacing"
           }
         }
@@ -76,7 +76,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/vieux-port-de-nuit.1612931.jpg",
+        "image": "shopify://shop_images/vieux-port-de-nuit.1612931.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -110,7 +110,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Réserver un essayage",
-            "button_link_1": "shopify:\/\/products\/essayages",
+            "button_link_1": "shopify://products/rendez-vous-age-paris",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -124,7 +124,7 @@
         "buttons_LNnRdx"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_3941.webp",
+        "image": "shopify://shop_images/IMG_3941.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -150,7 +150,7 @@
         "text_bFA6dA": {
           "type": "text",
           "settings": {
-            "text": "📍 LES ETABLIS, <a href=\"https:\/\/maps.app.goo.gl\/odQC72kZH9QjjKXB7\" target=\"_blank\" title=\"https:\/\/maps.app.goo.gl\/odQC72kZH9QjjKXB7\">73 rue Beaubourg, 75003 Paris.<\/a> <\/br><\/br>Sélection : Boxing Short et Pantalon Paros",
+            "text": "📍 LES ETABLIS, <a href=\"https://maps.app.goo.gl/odQC72kZH9QjjKXB7\" target=\"_blank\" title=\"https://maps.app.goo.gl/odQC72kZH9QjjKXB7\">73 rue Beaubourg, 75003 Paris.</a> </br></br>Sélection : Boxing Short et Pantalon Paros",
             "text_style": "caption-with-letter-spacing"
           }
         }
@@ -160,7 +160,7 @@
         "text_bFA6dA"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/14dd0996-9f2c-4b17-aa03-4f2156ccbf8e.jpg",
+        "image": "shopify://shop_images/14dd0996-9f2c-4b17-aa03-4f2156ccbf8e.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -180,18 +180,18 @@
           "type": "column",
           "settings": {
             "title": "Seezona",
-            "text": "<p>Seezona est une marketplace internationale basée à Stockholm, en Suède, qui sélectionne avec soin les marques de mode émergentes fondées par des femmes du monde entier. Leur engagements est de mettre en avant des créatrices émergentes, tout en valorisant l'artisanat et la durabilité.<\/p>",
+            "text": "<p>Seezona est une marketplace internationale basée à Stockholm, en Suède, qui sélectionne avec soin les marques de mode émergentes fondées par des femmes du monde entier. Leur engagements est de mettre en avant des créatrices émergentes, tout en valorisant l'artisanat et la durabilité.</p>",
             "link_label": "Découvrir la sélection sur Seezona",
-            "link": "https:\/\/www.seezona.com\/shopping\/designer\/age-paris"
+            "link": "https://www.seezona.com/shopping/designer/age-paris"
           }
         },
         "column_3QWWpM": {
           "type": "column",
           "settings": {
             "title": "Revibes Upcycling",
-            "text": "<p>REVIBE est la plus grande communauté de designers et de créateurs dédiée à l'upcycling. Une marketplace où des créateurs émergents transforment des tissus de seconde main, des stocks d’invendus et des déchets de production en des produits uniques.<\/p>",
+            "text": "<p>REVIBE est la plus grande communauté de designers et de créateurs dédiée à l'upcycling. Une marketplace où des créateurs émergents transforment des tissus de seconde main, des stocks d’invendus et des déchets de production en des produits uniques.</p>",
             "link_label": "Découvrir la sélection sur Revibes",
-            "link": "https:\/\/www.revibe-upcycling.com\/fr\/shop\/brands\/age-paris"
+            "link": "https://www.revibe-upcycling.com/fr/shop/brands/age-paris"
           }
         },
         "column_hNJt6i": {
@@ -199,7 +199,7 @@
           "disabled": true,
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
